@@ -1,0 +1,5 @@
+token: simple-token
+hash:
+  calculation:
+    key: key
+    algorithm: HmacSHA256
